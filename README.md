@@ -1,21 +1,21 @@
 # Diretório de Funcionários
 Este é um projeto de diretório de funcionários simples e interativo, projetado para exibir informações sobre a equipe. Cada membro da equipe tem um perfil individual que pode ser acessado a partir da página principal.
 
-Funcionalidades
+FUNCIONALIDADES
 Página Principal: Exibe uma lista de funcionários em um formato de grade, com fotos e nomes.
 
-Páginas de Perfil Individual: Cada foto é um link para uma página dedicada a esse funcionário. O título da página muda para o nome da pessoa clicada.
+PÁGINAS DE PERFIL INDIVIDUAL: Cada foto é um link para uma página dedicada a esse funcionário. O título da página muda para o nome da pessoa clicada.
 
-Navegação Consistente: Um ícone de casa (home) está presente em todas as páginas, permitindo uma navegação fácil e rápida de volta ao diretório principal.
+NAVEGAÇÃO CONSISTENTE: Um ícone de casa (home) está presente em todas as páginas, permitindo uma navegação fácil e rápida de volta ao diretório principal.
 
-Como Usar
+COMO USAR
 Abra a página index.html (ou a página inicial do diretório) no seu navegador.
 
 Clique na foto de qualquer funcionário para ver seu perfil individual.
 
 Para retornar à lista completa de funcionários, clique no ícone de casa no canto superior direito da página.
 
-Estrutura do Projeto Web
+ESTRUTURA DO PROJETO WEB
 
 index.html: Este é o arquivo principal do site. Ele provavelmente contém a página inicial que exibe o diretório com as fotos de todos os funcionários (Jean, Arthur e Brayan).
 
